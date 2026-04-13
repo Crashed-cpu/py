@@ -1,0 +1,5 @@
+Category: File Handling
+- Modes of file handling (r, w, a).
+- How to count words, lines, characters in a file?
+- How can character frequency indicate file type?
+- What is the purpose of bytes() in Python?

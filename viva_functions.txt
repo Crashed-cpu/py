@@ -1,0 +1,5 @@
+Category: Functions
+- Define a function and its syntax.
+- Types of arguments in Python functions.
+- What is recursion? What are anonymous functions?
+- Explain Python’s parameter-passing mechanism.

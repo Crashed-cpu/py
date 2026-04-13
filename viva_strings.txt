@@ -1,0 +1,5 @@
+Category: Strings & Dictionaries
+- Difference between split() and join().
+- How do you calculate length of a string?
+- Explain Python list comprehension.
+- How do you get all values from a dictionary?

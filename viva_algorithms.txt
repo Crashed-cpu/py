@@ -1,0 +1,5 @@
+Category: Algorithms
+- Explain Merge Sort logic.
+- Difference between Selection and Insertion sort.
+- What is GCD? What is Euclid’s Algorithm?
+- Formula for LCM and why lambda functions are used.

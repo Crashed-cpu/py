@@ -1,0 +1,4 @@
+Category: Data Types
+- What are Python's basic data types?
+- Difference between mutable and immutable types?
+- Explain type conversion functions (int, float, str, tuple, dict).

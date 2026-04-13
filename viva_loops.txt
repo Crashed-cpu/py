@@ -1,0 +1,5 @@
+Category: Loops & Conditionals
+- Syntax of if-else, for, while.
+- How is range() used in for loops?
+- What are multi-way if statements?
+- How to break out of infinite loops?
