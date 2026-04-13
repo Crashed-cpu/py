@@ -1,0 +1,29 @@
+Category: Algorithms
+- Explain Merge Sort logic.
+- Difference between Selection and Insertion sort.
+- What is GCD? What is Euclid’s Algorithm?
+- Formula for LCM and why lambda functions are used.
+Category: Data Types
+- What are Python's basic data types?
+- Difference between mutable and immutable types?
+- Explain type conversion functions (int, float, str, tuple, dict).
+Category: File Handling
+- Modes of file handling (r, w, a).
+- How to count words, lines, characters in a file?
+- How can character frequency indicate file type?
+- What is the purpose of bytes() in Python?
+Category: Functions
+- Define a function and its syntax.
+- Types of arguments in Python functions.
+- What is recursion? What are anonymous functions?
+- Explain Python’s parameter-passing mechanism.
+Category: Loops & Conditionals
+- Syntax of if-else, for, while.
+- How is range() used in for loops?
+- What are multi-way if statements?
+- How to break out of infinite loops?
+Category: Strings & Dictionaries
+- Difference between split() and join().
+- How do you calculate length of a string?
+- Explain Python list comprehension.
+- How do you get all values from a dictionary?
